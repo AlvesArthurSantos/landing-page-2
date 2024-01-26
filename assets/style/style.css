@@ -214,6 +214,7 @@ body {
 
 .detail img {
     width: 50%;
+    border-radius: 20px;
 }
 
 .detail h3 {
