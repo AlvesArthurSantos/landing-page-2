@@ -19,10 +19,6 @@
     box-sizing: border-box;
 }
 
-body {
-    padding-bottom: 500px;
-}
-
 /* Event Form*/
 
 #event-description {
